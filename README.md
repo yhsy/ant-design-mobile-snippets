@@ -9,7 +9,8 @@
 [Element-UI-Snippets-VSCode](https://github.com/snowffer/Element-UI-Snippets-VSCode)
 
 #### Basic Part (3)
-|  No.  | Trigger&nbsp;Key      | Tag                   |
-| :---: | :--------------:      | :-------------------  |
-|  1.   |    `atmbutton`        | `<Button>`            |
+No.|Trigger | Description
+---|--- | ---
+1.|atmbutton | `<Button>`
+
 
