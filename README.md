@@ -8,5 +8,8 @@
 [小茗同学](http://blog.haoji.me/vscode-plugin-overview.html)
 [Element-UI-Snippets-VSCode](https://github.com/snowffer/Element-UI-Snippets-VSCode)
 
-
+#### Basic Part (3)
+|  No.  | Trigger&nbsp;Key      | Tag                   |
+| :---: | :--------------:      | :-------------------  |
+|  1.   |    `atmbutton`        | `<Button>`            |
 
