@@ -1,0 +1,57 @@
+{
+  "name": "ant-design-mobile-snippets",
+  "displayName": "Ant Design Mobile Snippets",
+  "version": "0.1.0",
+  "publisher": "fishku",
+  "author": {
+    "name": "fishku"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "description": "Ant Design Mobile Snippets for VS Code",
+  "icon": "images/logo.png",
+  "keywords": [
+    "ant design mobile",
+    "antd mobile",
+    "mobile",
+    "react",
+    "snippets"
+  ],
+  "galleryBanner": {
+    "color": "#549BFF",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yhsy/ant-design-mobile-snippets/issues",
+    "email": "juerui@vip.qq.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhsy/ant-design-mobile-snippets"
+  },
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescript",
+        "path": "./snippets/mobile-ui.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/mobile-ui.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/mobile-ui.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/mobile-ui.json"
+      }
+    ]
+  }
+}

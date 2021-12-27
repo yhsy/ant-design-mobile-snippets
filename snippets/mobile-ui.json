@@ -1,0 +1,9 @@
+{
+  "Basic: Button": {
+    "prefix": "atmbutton",
+    "body": [
+      "<Button color=\"${1|primary,success,warning,danger,default|}\" >${2}</Button>"
+    ],
+    "description": "<Button>按钮</Button>"
+  }
+}
