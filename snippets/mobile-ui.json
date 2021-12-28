@@ -16,5 +16,16 @@
 			"</List>"
     ],
     "description": "<List><List.Item>列表</List.Item></List>"
+  },
+  "Basic: Space": {
+    "prefix": "atmspace",
+    "body": [
+	    "<Space>\r",
+			"  <Button>$1</Button>\r",
+			"  <Button>$2</Button>\r",
+			"  <Button>$3</Button>\r",
+			"</Space>"
+    ],
+    "description": "<Space>间距</Space>"
   }
 }
