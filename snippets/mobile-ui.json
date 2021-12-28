@@ -5,5 +5,16 @@
       "<Button color=\"${1|primary,success,warning,danger,default|}\" >${2}</Button>"
     ],
     "description": "<Button>按钮</Button>"
+  },
+  "Basic: List": {
+    "prefix": "atmlist",
+    "body": [
+	    "<List>\r",
+			"  <List.Item>$1</List.Item>\r",
+			"  <List.Item>$2</List.Item>\r",
+			"  <List.Item>$3</List.Item>\r",
+			"</List>"
+    ],
+    "description": "<List><List.Item>列表</List.Item></List>"
   }
 }
