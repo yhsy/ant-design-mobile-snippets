@@ -1,12 +1,12 @@
 {
-  "Basic: Button": {
+  "Button(按钮)": {
     "prefix": "atmbutton",
     "body": [
       "<Button color=\"${1|primary,success,warning,danger,default|}\">$2</Button>"
     ],
-    "description": "<Button>按钮</Button>"
+    "description": ""
   },
-  "Basic: List": {
+  "List（列表）": {
     "prefix": "atmlist",
     "body": [
       "<List>\r",
@@ -15,9 +15,9 @@
       "  <List.Item>$3</List.Item>\r",
       "</List>"
     ],
-    "description": "<List><List.Item>列表</List.Item></List>"
+    "description": ""
   },
-  "Basic: Space": {
+  "Space(间距)": {
     "prefix": "atmspace",
     "body": [
       "<Space>\r",
@@ -26,16 +26,16 @@
       "  <Button>$3</Button>\r",
       "</Space>"
     ],
-    "description": "<Space>间距</Space>"
+    "description": ""
   },
-  "Display: Badge": {
+  "Badge(徽标)": {
     "prefix": "atmbadge",
     "body": ["<Badge count=\"$1\">$2</Badge>"],
-    "description": "<Badge count=\"5\">徽标</Badge>"
+    "description": ""
   },
-  "Display: Card": {
+  "Card(卡片)": {
     "prefix": "atmcard",
     "body": ["<Card title=\"$1\">$2</Card>"],
-    "description": "<Card>卡片</Card>"
+    "description": ""
   }
 }
