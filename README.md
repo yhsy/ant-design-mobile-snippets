@@ -15,3 +15,4 @@ No.|Trigger | Description
 2.|atmlist | `<List>`
 3.|atmspace | `<Space>`
 4.|atmbadge| `<Badge>`
+5.|atmcard| `<Card>`

@@ -2,37 +2,40 @@
   "Basic: Button": {
     "prefix": "atmbutton",
     "body": [
-      "<Button color=\"${1|primary,success,warning,danger,default|}\" >${2}</Button>"
+      "<Button color=\"${1|primary,success,warning,danger,default|}\">$2</Button>"
     ],
     "description": "<Button>按钮</Button>"
   },
   "Basic: List": {
     "prefix": "atmlist",
     "body": [
-	    "<List>\r",
-			"  <List.Item>$1</List.Item>\r",
-			"  <List.Item>$2</List.Item>\r",
-			"  <List.Item>$3</List.Item>\r",
-			"</List>"
+      "<List>\r",
+      "  <List.Item>$1</List.Item>\r",
+      "  <List.Item>$2</List.Item>\r",
+      "  <List.Item>$3</List.Item>\r",
+      "</List>"
     ],
     "description": "<List><List.Item>列表</List.Item></List>"
   },
   "Basic: Space": {
     "prefix": "atmspace",
     "body": [
-	    "<Space>\r",
-			"  <Button>$1</Button>\r",
-			"  <Button>$2</Button>\r",
-			"  <Button>$3</Button>\r",
-			"</Space>"
+      "<Space>\r",
+      "  <Button>$1</Button>\r",
+      "  <Button>$2</Button>\r",
+      "  <Button>$3</Button>\r",
+      "</Space>"
     ],
     "description": "<Space>间距</Space>"
   },
   "Display: Badge": {
     "prefix": "atmbadge",
-    "body": [
-	    "<Badge count=\"\"></Badge>"
-    ],
+    "body": ["<Badge count=\"$1\">$2</Badge>"],
     "description": "<Badge count=\"5\">徽标</Badge>"
+  },
+  "Display: Card": {
+    "prefix": "atmcard",
+    "body": ["<Card title=\"$1\">$2</Card>"],
+    "description": "<Card>卡片</Card>"
   }
 }
