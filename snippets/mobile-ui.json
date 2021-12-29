@@ -27,5 +27,12 @@
 			"</Space>"
     ],
     "description": "<Space>间距</Space>"
+  },
+  "Display: Badge": {
+    "prefix": "atmbadge",
+    "body": [
+	    "<Badge count=\"\"></Badge>"
+    ],
+    "description": "<Badge count=\"5\">徽标</Badge>"
   }
 }
