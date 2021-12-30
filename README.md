@@ -16,5 +16,7 @@ No.|Trigger | Description | Link
 3.|atmspace | `<Space>` |[Space](https://mobile.ant.design/zh/components/space)
 4.|atmbadge| `<Badge>` |[Badge](https://mobile.ant.design/zh/components/badge)
 5.|atmcard| `<Card>` |[Card](https://mobile.ant.design/zh/components/card)
-5.|atmimage| `<Image>` |[Card](https://mobile.ant.design/zh/components/image)
+6.|atmimage| `<Image>` |[Image](https://mobile.ant.design/zh/components/image)
+7.|atmimageViewer| `<ImageViewer>` |[ImageViewer](https://mobile.ant.design/zh/components/image-viewer)
+
 

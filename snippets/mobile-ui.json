@@ -42,5 +42,10 @@
     "prefix": "atmimage",
     "body": ["<Image src=\"$1\" />"],
     "description": ""
+  },
+  "ImageViewer(图片查看器)": {
+    "prefix": "atmimageViewer",
+    "body": ["<ImageViewer image=\"$1\" visible=\"$2\" />"],
+    "description": ""
   }
 }
