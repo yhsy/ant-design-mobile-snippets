@@ -47,5 +47,10 @@
     "prefix": "atmimageViewer",
     "body": ["<ImageViewer image=\"$1\" visible=\"$2\" />"],
     "description": ""
+  },
+  "InfiniteScroll(无限滚动)": {
+    "prefix": "atminfiniteScroll",
+    "body": ["<InfiniteScroll loadMore=\"$1\" hasMore=\"$2\" />"],
+    "description": ""
   }
 }

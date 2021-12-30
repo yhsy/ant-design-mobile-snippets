@@ -14,9 +14,14 @@ No.|Trigger | Description | Link
 1.|atmbutton | `<Button>` |[Button](https://mobile.ant.design/zh/components/button)
 2.|atmlist | `<List>` |[List](https://mobile.ant.design/zh/components/list)
 3.|atmspace | `<Space>` |[Space](https://mobile.ant.design/zh/components/space)
-4.|atmbadge| `<Badge>` |[Badge](https://mobile.ant.design/zh/components/badge)
-5.|atmcard| `<Card>` |[Card](https://mobile.ant.design/zh/components/card)
-6.|atmimage| `<Image>` |[Image](https://mobile.ant.design/zh/components/image)
-7.|atmimageViewer| `<ImageViewer>` |[ImageViewer](https://mobile.ant.design/zh/components/image-viewer)
+
+#### Data Display (12)
+No.|Trigger | Description | Link
+---|--- | --- | ---
+1.|atmbadge| `<Badge>` |[Badge](https://mobile.ant.design/zh/components/badge)
+2.|atmcard| `<Card>` |[Card](https://mobile.ant.design/zh/components/card)
+3.|atmimage| `<Image>` |[Image](https://mobile.ant.design/zh/components/image)
+4.|atmimageViewer| `<ImageViewer>` |[ImageViewer](https://mobile.ant.design/zh/components/image-viewer)
+5.|atminfiniteScroll| `<InfiniteScroll>` |[InfiniteScroll](https://mobile.ant.design/zh/components/infinite-scroll)
 
 
