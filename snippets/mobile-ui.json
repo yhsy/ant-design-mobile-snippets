@@ -37,5 +37,10 @@
     "prefix": "atmcard",
     "body": ["<Card title=\"$1\">$2</Card>"],
     "description": ""
+  },
+  "Image(图片)": {
+    "prefix": "atmimage",
+    "body": ["<Image src=\"$1\" />"],
+    "description": ""
   }
 }
