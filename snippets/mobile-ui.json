@@ -52,5 +52,10 @@
     "prefix": "atminfiniteScroll",
     "body": ["<InfiniteScroll loadMore=\"$1\" hasMore=\"$2\" />"],
     "description": ""
+  },
+  "NoticeBar(通告栏)": {
+    "prefix": "atmnoticeBar",
+    "body": ["<NoticeBar content=\"$1\" color=\"${2|alert,info,error,default|}\" />"],
+    "description": ""
   }
 }
