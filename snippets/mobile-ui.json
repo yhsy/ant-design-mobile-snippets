@@ -57,5 +57,10 @@
     "prefix": "atmnoticeBar",
     "body": ["<NoticeBar content=\"$1\" color=\"${2|alert,info,error,default|}\" />"],
     "description": ""
+  },
+  "PageIndicator(页码指示器)": {
+    "prefix": "atmpageIndicator",
+    "body": ["<PageIndicator total=\"$1\" current=\"$2\" />"],
+    "description": ""
   }
 }

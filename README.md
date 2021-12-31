@@ -29,3 +29,4 @@
 | 4.  | atmimageViewer    | `<ImageViewer>`    | [ImageViewer](https://mobile.ant.design/zh/components/image-viewer)       |
 | 5.  | atminfiniteScroll | `<InfiniteScroll>` | [InfiniteScroll](https://mobile.ant.design/zh/components/infinite-scroll) |
 | 6.  | atmnoticeBar      | `<NoticeBar>`      | [NoticeBar](https://mobile.ant.design/zh/components/notice-bar)           |
+| 7.  | atmpageIndicator  | `<PageIndicator>`  | [PageIndicator](https://mobile.ant.design/zh/components/page-indicator)   |
