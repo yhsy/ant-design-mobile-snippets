@@ -82,6 +82,21 @@
       "</Steps>"
     ],
     "description": ""
+  },
+  "Swiper(走马灯/轮播图)": {
+    "prefix": "atmswiper",
+    "body": [
+      "<Swiper>\r",
+      "  <Swiper.Item key={$1}>\r",
+      "    <div>1</div>\r",
+      "  </Swiper.Item>\r",
+      "  <Swiper.Item key={$2}>\r",
+      "    <div>2</div>\r",
+      "  </Swiper.Item>\r",
+      "</Swiper>"
+    ],
+    "description": ""
   }
+  
   
 }
