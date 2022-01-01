@@ -96,7 +96,10 @@
       "</Swiper>"
     ],
     "description": ""
+  },
+  "Tag(标签)": {
+    "prefix": "atmtag",
+    "body": ["<Tag color=\"$1\">$2</Tag>"],
+    "description": ""
   }
-  
-  
 }

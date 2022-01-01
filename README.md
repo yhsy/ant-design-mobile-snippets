@@ -33,3 +33,4 @@
 | 8.  | atmpopover        | `<Popover>`        | [Popover](https://mobile.ant.design/zh/components/popover)                |
 | 9.  | atmsteps          | `<Steps>`          | [Steps](https://mobile.ant.design/zh/components/steps)                    |
 | 10. | atmswiper         | `<Swiper>`         | [Swiper](https://mobile.ant.design/zh/components/swiper)                  |
+| 11. | atmtag            | `<Tag>`            | [Tag](https://mobile.ant.design/zh/components/tag)                        |
