@@ -62,5 +62,14 @@
     "prefix": "atmpageIndicator",
     "body": ["<PageIndicator total=\"$1\" current=\"$2\" />"],
     "description": ""
+  },
+  "Popover(气泡弹出框)": {
+    "prefix": "atmpopover",
+    "body": [
+      "<Popover content=\"$1\" placement=\"$2\" >\r",
+      "  <Button>$3</Button>\r",
+      "</Popover>"
+    ],
+    "description": ""
   }
 }
