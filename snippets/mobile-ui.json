@@ -106,5 +106,10 @@
     "prefix": "atmwaterMark",
     "body": ["<WaterMark content=\"Ant Design Mobile\">$1</WaterMark>"],
     "description": ""
+  },
+  "Cascader(级联选择)": {
+    "prefix": "atmcascader",
+    "body": ["<Cascader options={$1} visible={$2} value={$3}>$4</Cascader>"],
+    "description": ""
   }
 }
