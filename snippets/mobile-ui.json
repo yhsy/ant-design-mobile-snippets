@@ -101,5 +101,10 @@
     "prefix": "atmtag",
     "body": ["<Tag color=\"$1\">$2</Tag>"],
     "description": ""
+  },
+  "WaterMark(水印)": {
+    "prefix": "atmwaterMark",
+    "body": ["<WaterMark content=\"Ant Design Mobile\">$1</WaterMark>"],
+    "description": ""
   }
 }
