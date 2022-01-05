@@ -127,6 +127,16 @@
       "</CheckList>"
     ],
     "description": ""
+  },
+  "Checkbox(勾选框)": {
+    "prefix": "atmcheckbox",
+    "body": [
+      "<Checkbox.Group value={$1} onChange={$2}>\r",
+      "  <Checkbox value='A'>A</Checkbox>\r",
+      "  <Checkbox value='B'>B</Checkbox>\r",
+      "  <Checkbox value='C'>C</Checkbox>\r",
+      "</Checkbox.Group>"
+    ],
+    "description": ""
   }
-  
 }
