@@ -138,5 +138,16 @@
       "</Checkbox.Group>"
     ],
     "description": ""
+  },
+  "Form(表单)": {
+    "prefix": "atmform",
+    "body": [
+      "<Form onFinish={$1} footer={$2}>\r",
+      "  <Form.Item name={$1} label={$2} rules={$3}>\r",
+      "    <Input placeholder=''/>\r",
+      "  </Form.Item>\r",
+      "</Form>"
+    ],
+    "description": ""
   }
 }
