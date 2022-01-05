@@ -42,3 +42,4 @@
 | --- | --------------- | ---------------- | --------------------------------------------------------------------- |
 | 1.  | atmcascader     | `<Cascader>`     | [Cascader](https://mobile.ant.design/zh/components/cascader)          |
 | 2.  | atmcascaderView | `<CascaderView>` | [CascaderView](https://mobile.ant.design/zh/components/cascader-view) |
+| 3.  | atmcheckList    | `<CheckList>`    | [CheckList](https://mobile.ant.design/zh/components/check-list)       |

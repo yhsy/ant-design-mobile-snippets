@@ -116,5 +116,17 @@
     "prefix": "atmcascaderView",
     "body": ["<CascaderView options={$1} value={$2}>$3</CascaderView>"],
     "description": ""
+  },
+  "CheckList(可勾选列表)": {
+    "prefix": "atmcheckList",
+    "body": [
+      "<CheckList default={['B']}>\r",
+      "  <CheckList.Item value='A'>A</CheckList.Item>\r",
+      "  <CheckList.Item value='B'>B</CheckList.Item>\r",
+      "  <CheckList.Item value='C'>C</CheckList.Item>\r",
+      "</CheckList>"
+    ],
+    "description": ""
   }
+  
 }
