@@ -38,6 +38,7 @@
 
 #### Data Entry (16)
 
-| No. | Trigger     | Description  | Link                                                         |
-| --- | ----------- | ------------ | ------------------------------------------------------------ |
-| 1.  | atmcascader | `<Cascader>` | [Cascader](https://mobile.ant.design/zh/components/cascader) |
+| No. | Trigger         | Description      | Link                                                                  |
+| --- | --------------- | ---------------- | --------------------------------------------------------------------- |
+| 1.  | atmcascader     | `<Cascader>`     | [Cascader](https://mobile.ant.design/zh/components/cascader)          |
+| 2.  | atmcascaderView | `<CascaderView>` | [CascaderView](https://mobile.ant.design/zh/components/cascader-view) |

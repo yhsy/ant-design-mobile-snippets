@@ -111,5 +111,10 @@
     "prefix": "atmcascader",
     "body": ["<Cascader options={$1} visible={$2} value={$3}>$4</Cascader>"],
     "description": ""
+  },
+  "CascaderView(级联选择视图)": {
+    "prefix": "atmcascaderView",
+    "body": ["<CascaderView options={$1} value={$2}>$3</CascaderView>"],
+    "description": ""
   }
 }
