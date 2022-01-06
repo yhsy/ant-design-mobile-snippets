@@ -149,5 +149,10 @@
       "</Form>"
     ],
     "description": ""
+  },
+  "Input(输入框)": {
+    "prefix": "atminput",
+    "body": ["<Input placeholder=\"$1\" value={$2} />"],
+    "description": ""
   }
 }
