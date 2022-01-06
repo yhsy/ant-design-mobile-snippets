@@ -154,5 +154,10 @@
     "prefix": "atminput",
     "body": ["<Input placeholder=\"$1\" value={$2} />"],
     "description": ""
+  },
+  "Picker(选择器)": {
+    "prefix": "atmpicker",
+    "body": ["<Picker columns=\"$1\" visible={$2} value={$3} />"],
+    "description": ""
   }
 }

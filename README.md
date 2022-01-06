@@ -46,3 +46,4 @@
 | 4.  | atmcheckbox     | `<Checkbox>`     | [Checkbox](https://mobile.ant.design/zh/components/checkbox)          |
 | 5.  | atmform         | `<Form>`         | [Form](https://mobile.ant.design/zh/components/form)                  |
 | 6.  | atminput        | `<Input>`        | [Input](https://mobile.ant.design/zh/components/input)                |
+| 7.  | atmpicker       | `<Picker>`       | [Picker](https://mobile.ant.design/zh/components/picker)              |
