@@ -159,5 +159,10 @@
     "prefix": "atmpicker",
     "body": ["<Picker columns=\"$1\" visible={$2} value={$3} />"],
     "description": ""
+  },
+  "PickerView(选择器视图)": {
+    "prefix": "atmpickerView",
+    "body": ["<PickerView columns=\"$1\"/>"],
+    "description": ""
   }
 }
