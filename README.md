@@ -48,3 +48,4 @@
 | 6.  | atminput        | `<Input>`        | [Input](https://mobile.ant.design/zh/components/input)                |
 | 7.  | atmpicker       | `<Picker>`       | [Picker](https://mobile.ant.design/zh/components/picker)              |
 | 8.  | atmpickerView   | `<PickerView>`   | [PickerView](https://mobile.ant.design/zh/components/picker-view)     |
+| 9.  | atmradio        | `<Radio>`        | [Radio](https://mobile.ant.design/zh/components/radio)                |

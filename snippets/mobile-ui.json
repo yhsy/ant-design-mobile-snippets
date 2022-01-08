@@ -164,5 +164,16 @@
     "prefix": "atmpickerView",
     "body": ["<PickerView columns=\"$1\"/>"],
     "description": ""
+  },
+  "Radio(单选框)": {
+    "prefix": "atmradio",
+    "body": [
+      "<Radio.Group>\r",
+      "  <Radio value=\"A\">A</Radio>\r",
+      "  <Radio value=\"B\">B</Radio>\r",
+      "  <Radio value=\"C\">C</Radio>\r",
+      "</Radio.Group>"
+    ],
+    "description": ""
   }
 }
