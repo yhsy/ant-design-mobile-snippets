@@ -182,5 +182,10 @@
     "prefix": "atmrate",
     "body": ["<Rate val=\"$1\"/>"],
     "description": ""
+  },
+  "SearchBar(搜索)": {
+    "prefix": "atmsearchBar",
+    "body": ["<SearchBar placeholder=\"$1\"/>"],
+    "description": ""
   }
 }
