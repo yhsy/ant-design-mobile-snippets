@@ -49,3 +49,4 @@
 | 7.  | atmpicker       | `<Picker>`       | [Picker](https://mobile.ant.design/zh/components/picker)              |
 | 8.  | atmpickerView   | `<PickerView>`   | [PickerView](https://mobile.ant.design/zh/components/picker-view)     |
 | 9.  | atmradio        | `<Radio>`        | [Radio](https://mobile.ant.design/zh/components/radio)                |
+| 10. | atmrate         | `<Rate>`         | [Rate](https://mobile.ant.design/zh/components/rate)                  |

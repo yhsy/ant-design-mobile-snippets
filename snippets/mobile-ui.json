@@ -177,5 +177,10 @@
       "</Radio.Group>"
     ],
     "description": ""
+  },
+  "Rate(评分)": {
+    "prefix": "atmrate",
+    "body": ["<Rate val=\"$1\"/>"],
+    "description": ""
   }
 }
