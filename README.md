@@ -53,3 +53,4 @@
 | 11. | atmsearchBar    | `<SearchBar>`    | [SearchBar](https://mobile.ant.design/zh/components/search-bar)       |
 | 12. | atmselector     | `<Selector>`     | [Selector](https://mobile.ant.design/zh/components/selector)          |
 | 13. | atmslider       | `<Slider>`       | [Slider](https://mobile.ant.design/zh/components/slider)              |
+| 14. | atmstepper      | `<Stepper>`      | [Stepper](https://mobile.ant.design/zh/components/stepper)            |

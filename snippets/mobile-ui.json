@@ -192,5 +192,10 @@
     "prefix": "atmslider",
     "body": ["<Slider step={$1} value={$2}>"],
     "description": ""
+  },
+  "Stepper(步进器)": {
+    "prefix": "atmstepper",
+    "body": ["<Stepper value={$1}>"],
+    "description": ""
   }
 }
