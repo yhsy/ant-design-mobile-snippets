@@ -187,5 +187,10 @@
     "prefix": "atmselector",
     "body": ["<Selector options={$1} value={$2}>"],
     "description": ""
+  },
+  "Slider(滑动输入条)": {
+    "prefix": "atmslider",
+    "body": ["<Slider step={$1} value={$2}>"],
+    "description": ""
   }
 }
