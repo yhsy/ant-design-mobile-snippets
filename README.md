@@ -54,3 +54,4 @@
 | 12. | atmselector     | `<Selector>`     | [Selector](https://mobile.ant.design/zh/components/selector)          |
 | 13. | atmslider       | `<Slider>`       | [Slider](https://mobile.ant.design/zh/components/slider)              |
 | 14. | atmstepper      | `<Stepper>`      | [Stepper](https://mobile.ant.design/zh/components/stepper)            |
+| 15. | atmswitch       | `<Switch>`       | [Switch](https://mobile.ant.design/zh/components/switch)              |

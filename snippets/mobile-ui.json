@@ -162,7 +162,7 @@
   },
   "PickerView(选择器视图)": {
     "prefix": "atmpickerView",
-    "body": ["<PickerView columns=\"$1\"/>"],
+    "body": ["<PickerView columns=\"$1\" />"],
     "description": ""
   },
   "Radio(单选框)": {
@@ -180,22 +180,27 @@
   },
   "Rate(评分)": {
     "prefix": "atmrate",
-    "body": ["<Rate val=\"$1\"/>"],
+    "body": ["<Rate val=\"$1\" />"],
     "description": ""
   },
   "Selector(选择组)": {
     "prefix": "atmselector",
-    "body": ["<Selector options={$1} value={$2}>"],
+    "body": ["<Selector options={$1} value={$2} />"],
     "description": ""
   },
   "Slider(滑动输入条)": {
     "prefix": "atmslider",
-    "body": ["<Slider step={$1} value={$2}>"],
+    "body": ["<Slider step={$1} value={$2} />"],
     "description": ""
   },
   "Stepper(步进器)": {
     "prefix": "atmstepper",
-    "body": ["<Stepper value={$1}>"],
+    "body": ["<Stepper value={$1} />"],
+    "description": ""
+  },
+  "Switch(开关)": {
+    "prefix": "atmswitch",
+    "body": ["<Switch checked={$1} />"],
     "description": ""
   }
 }
