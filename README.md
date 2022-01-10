@@ -55,3 +55,4 @@
 | 13. | atmslider       | `<Slider>`       | [Slider](https://mobile.ant.design/zh/components/slider)              |
 | 14. | atmstepper      | `<Stepper>`      | [Stepper](https://mobile.ant.design/zh/components/stepper)            |
 | 15. | atmswitch       | `<Switch>`       | [Switch](https://mobile.ant.design/zh/components/switch)              |
+| 16. | atmtextArea     | `<TextArea>`     | [TextArea](https://mobile.ant.design/zh/components/text-area)         |

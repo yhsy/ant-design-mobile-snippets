@@ -202,5 +202,10 @@
     "prefix": "atmswitch",
     "body": ["<Switch checked={$1} />"],
     "description": ""
+  },
+  "TextArea(文本域)": {
+    "prefix": "atmtextArea",
+    "body": ["<TextArea placeholder=\"请输入内容\" value={$1} />"],
+    "description": ""
   }
 }
