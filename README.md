@@ -51,3 +51,4 @@
 | 9.  | atmradio        | `<Radio>`        | [Radio](https://mobile.ant.design/zh/components/radio)                |
 | 10. | atmrate         | `<Rate>`         | [Rate](https://mobile.ant.design/zh/components/rate)                  |
 | 11. | atmsearchBar    | `<SearchBar>`    | [SearchBar](https://mobile.ant.design/zh/components/search-bar)       |
+| 12. | atmselector     | `<Selector>`     | [Selector](https://mobile.ant.design/zh/components/selector)          |

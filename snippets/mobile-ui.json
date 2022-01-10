@@ -183,9 +183,9 @@
     "body": ["<Rate val=\"$1\"/>"],
     "description": ""
   },
-  "SearchBar(搜索)": {
-    "prefix": "atmsearchBar",
-    "body": ["<SearchBar placeholder=\"$1\"/>"],
+  "Selector(选择组)": {
+    "prefix": "atmselector",
+    "body": ["<Selector options={$1} value={$2}>"],
     "description": ""
   }
 }
