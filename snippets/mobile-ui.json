@@ -207,5 +207,10 @@
     "prefix": "atmtextArea",
     "body": ["<TextArea placeholder=\"请输入内容\" value={$1} />"],
     "description": ""
+  },
+  "ActionSheet(动作面板)": {
+    "prefix": "atmactionSheet",
+    "body": ["<ActionSheet visible={$1} actions={$2} onClose={} />"],
+    "description": ""
   }
 }
