@@ -62,3 +62,4 @@
 | No. | Trigger        | Description     | Link                                                                |
 | --- | -------------- | --------------- | ------------------------------------------------------------------- |
 | 1.  | atmactionSheet | `<ActionSheet>` | [ActionSheet](https://mobile.ant.design/zh/components/action-sheet) |
+| 2.  | atmdialog      | `<Dialog>`      | [Dialog](https://mobile.ant.design/zh/components/dialog)            |

@@ -212,5 +212,22 @@
     "prefix": "atmactionSheet",
     "body": ["<ActionSheet visible={$1} actions={$2} onClose={} />"],
     "description": ""
+  },
+  "Dialog(对话框)": {
+    "prefix": "atmdialog",
+    "body": [
+      "<Button block onClick={()=>{ \r",
+      "  Dialog.alert({\r",
+      "   content: '',\r",
+      "   onConfirm: ()=>{,\r",
+      "     ",
+      "   }\r",
+      "  })/>",
+    "  }}>",
+      "  \r",
+      "</Button>"
+    ],
+    "description": ""
   }
+  
 }
