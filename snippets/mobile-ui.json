@@ -233,5 +233,10 @@
     "prefix": "atmempty",
     "body": ["<Empty description='暂无数据'/>"],
     "description": ""
+  },
+  "ErrorBlock(异常)": {
+    "prefix": "atmerrorBlock",
+    "body": ["<ErrorBlock status='default'/>"],
+    "description": ""
   }
 }
