@@ -239,9 +239,14 @@
     "body": ["<ErrorBlock status='default'/>"],
     "description": ""
   },
-  "Loading(异常)": {
+  "Loading(加载中)": {
     "prefix": "atmloading",
     "body": ["<DotLoading color=\"${1|primary,white,default|}\" />"],
+    "description": ""
+  },
+  "Mask(遮罩层)": {
+    "prefix": "atmmask",
+    "body": ["<Mask visible={$1} onMaskClick={()=>{$2}} />"],
     "description": ""
   }
 }

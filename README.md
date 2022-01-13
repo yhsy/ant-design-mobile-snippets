@@ -66,3 +66,4 @@
 | 3.  | atmempty       | `<Empty>`       | [Empty](https://mobile.ant.design/zh/components/empty)              |
 | 4.  | atmerrorBlock  | `<ErrorBlock>`  | [ErrorBlock](https://mobile.ant.design/zh/components/error-block)   |
 | 5.  | atmloading     | `<Loading>`     | [Loading](https://mobile.ant.design/zh/components/loading)          |
+| 6.  | atmmask        | `<Mask>`        | [Mask](https://mobile.ant.design/zh/components/mask)                |
