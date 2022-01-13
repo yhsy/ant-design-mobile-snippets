@@ -238,5 +238,10 @@
     "prefix": "atmerrorBlock",
     "body": ["<ErrorBlock status='default'/>"],
     "description": ""
+  },
+  "Loading(异常)": {
+    "prefix": "atmloading",
+    "body": ["<DotLoading color=\"${1|primary,white,default|}\" />"],
+    "description": ""
   }
 }
