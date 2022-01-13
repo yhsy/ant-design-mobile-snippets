@@ -228,6 +228,10 @@
       "</Button>"
     ],
     "description": ""
+  },
+  "Empty(空状态)": {
+    "prefix": "atmempty",
+    "body": ["<Empty description='暂无数据'/>"],
+    "description": ""
   }
-  
 }
