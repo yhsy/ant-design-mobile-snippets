@@ -262,5 +262,10 @@
       " />"
     ],
     "description": ""
+  },
+  "ProgressBar(进度条)": {
+    "prefix": "atmprogressBar",
+    "body": ["<ProgressBar percent={$1} />"],
+    "description": ""
   }
 }
