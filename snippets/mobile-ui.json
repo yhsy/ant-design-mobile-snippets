@@ -272,5 +272,10 @@
     "prefix": "atmprogressCircle",
     "body": ["<ProgressCircle percent={$1} />"],
     "description": ""
+  },
+  "PullToRefresh(下拉刷新)": {
+    "prefix": "atmpullToRefresh",
+    "body": ["<PullToRefresh onRefresh={$1}>$2</PullToRefresh>"],
+    "description": ""
   }
 }
