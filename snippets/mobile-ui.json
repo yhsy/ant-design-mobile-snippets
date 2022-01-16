@@ -277,5 +277,12 @@
     "prefix": "atmpullToRefresh",
     "body": ["<PullToRefresh onRefresh={$1}>$2</PullToRefresh>"],
     "description": ""
+  },
+  "Result(结果)": {
+    "prefix": "atmresult",
+    "body": [
+      "<Result status=\"${1|success,info,waiting,error,default|} title='$2' description='$3' \"/>"
+    ],
+    "description": ""
   }
 }

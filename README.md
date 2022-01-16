@@ -71,3 +71,4 @@
 | 8.  | atmprogressBar    | `<ProgressBar>`    | [ProgressBar](https://mobile.ant.design/zh/components/progress-bar)       |
 | 9.  | atmprogressCircle | `<ProgressCircle>` | [ProgressCircle](https://mobile.ant.design/zh/components/progress-circle) |
 | 10. | atmpullToRefresh  | `<PullToRefresh>`  | [PullToRefresh](https://mobile.ant.design/zh/components/pull-to-refresh)  |
+| 11. | atmresult         | `<Result>`         | [Result](https://mobile.ant.design/zh/components/result)                  |
