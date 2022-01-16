@@ -281,7 +281,15 @@
   "Result(结果)": {
     "prefix": "atmresult",
     "body": [
-      "<Result status=\"${1|success,info,waiting,error,default|} title='$2' description='$3' \"/>"
+      "<Result status='${1|success,info,waiting,error,default|}' title='$2' description='$3' />"
+    ],
+    "description": ""
+  },
+  "Skeleton(骨架屏)": {
+    "prefix": "atmskeleton",
+    "body": [
+      "<Skeleton.Title animated />\r",
+      "<Skeleton.Paragraph linCount={$1} animated />"
     ],
     "description": ""
   }

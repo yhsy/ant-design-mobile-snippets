@@ -72,3 +72,4 @@
 | 9.  | atmprogressCircle | `<ProgressCircle>` | [ProgressCircle](https://mobile.ant.design/zh/components/progress-circle) |
 | 10. | atmpullToRefresh  | `<PullToRefresh>`  | [PullToRefresh](https://mobile.ant.design/zh/components/pull-to-refresh)  |
 | 11. | atmresult         | `<Result>`         | [Result](https://mobile.ant.design/zh/components/result)                  |
+| 12. | atmskeleton       | `<Skeleton>`       | [Skeleton](https://mobile.ant.design/zh/components/skeleton)              |
