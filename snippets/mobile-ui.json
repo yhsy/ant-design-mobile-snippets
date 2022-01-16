@@ -267,5 +267,10 @@
     "prefix": "atmprogressBar",
     "body": ["<ProgressBar percent={$1} />"],
     "description": ""
+  },
+  "ProgressCircle(进度圈)": {
+    "prefix": "atmprogressCircle",
+    "body": ["<ProgressCircle percent={$1} />"],
+    "description": ""
   }
 }
