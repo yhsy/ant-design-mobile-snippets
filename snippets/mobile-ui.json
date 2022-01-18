@@ -291,6 +291,21 @@
       "<SwipeAction rightActions={$1} />\r"
     ],
     "description": ""
+  },
+  "Toast(轻提示)": {
+    "prefix": "atmtoast",
+    "body": [
+      "<Button onClick={ () => { \r",
+        "Toast.show({ \r",
+          "content: '' \r",
+          "afterClose: ()=>{\r",
+            "\r",
+          "}\r",
+        "}) \r",
+      "}}>\r",
+      "轻提示",
+      "</Button>"
+    ],
+    "description": ""
   }
-
 }

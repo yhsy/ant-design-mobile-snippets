@@ -74,3 +74,4 @@
 | 11. | atmresult         | `<Result>`         | [Result](https://mobile.ant.design/zh/components/result)                  |
 | 12. | atmskeleton       | `<Skeleton>`       | [Skeleton](https://mobile.ant.design/zh/components/skeleton)              |
 | 13. | atmswipeAction    | `<SwipeAction>`    | [SwipeAction](https://mobile.ant.design/zh/components/swipe-action)       |
+| 14. | atmtoast          | `<Toast>`          | [Toast](https://mobile.ant.design/zh/components/toast)                    |
