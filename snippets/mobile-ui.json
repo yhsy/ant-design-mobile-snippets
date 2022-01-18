@@ -307,5 +307,12 @@
       "</Button>"
     ],
     "description": ""
+  },
+  "AutoCenter(自动居中)": {
+    "prefix": "atmautoCenter",
+    "body": [
+      "<AutoCenter>{$1}</AutoCenter>"
+    ],
+    "description": ""
   }
 }
