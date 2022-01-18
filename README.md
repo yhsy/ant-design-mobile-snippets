@@ -73,3 +73,4 @@
 | 10. | atmpullToRefresh  | `<PullToRefresh>`  | [PullToRefresh](https://mobile.ant.design/zh/components/pull-to-refresh)  |
 | 11. | atmresult         | `<Result>`         | [Result](https://mobile.ant.design/zh/components/result)                  |
 | 12. | atmskeleton       | `<Skeleton>`       | [Skeleton](https://mobile.ant.design/zh/components/skeleton)              |
+| 13. | atmswipeAction    | `<SwipeAction>`    | [SwipeAction](https://mobile.ant.design/zh/components/swipe-action)       |
