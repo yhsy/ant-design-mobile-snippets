@@ -78,6 +78,7 @@
 
 #### 5.Navigation & Layout (14)
 
-| No. | Trigger       | Description    | Link                                                              |
-| --- | ------------- | -------------- | ----------------------------------------------------------------- |
-| 1.  | atmautoCenter | `<AutoCenter>` | [AutoCenter](https://mobile.ant.design/zh/components/auto-center) |
+| No. | Trigger        | Description     | Link                                                                |
+| --- | -------------- | --------------- | ------------------------------------------------------------------- |
+| 1.  | atmautoCenter  | `<AutoCenter>`  | [AutoCenter](https://mobile.ant.design/zh/components/auto-center)   |
+| 2.  | atmcapsuleTabs | `<CapsuleTabs>` | [CapsuleTabs](https://mobile.ant.design/zh/components/capsule-tabs) |

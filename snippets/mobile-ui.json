@@ -314,5 +314,16 @@
       "<AutoCenter>{$1}</AutoCenter>"
     ],
     "description": ""
+  },
+  "CapsuleTabs(胶囊选项卡)": {
+    "prefix": "atmcapsuleTabs",
+    "body": [
+      "<CapsuleTabs \r",
+      "  <CapsuleTabs.Tab title=\"水果\" key='$1' />\r",
+      "  <CapsuleTabs.Tab title=\"蔬菜\" key='$2' />\r",
+      "  <CapsuleTabs.Tab title=\"动物\" key='$3' />\r",
+      "</CapsuleTabs>"
+    ],
+    "description": ""
   }
 }
