@@ -82,3 +82,4 @@
 | --- | -------------- | --------------- | ------------------------------------------------------------------- |
 | 1.  | atmautoCenter  | `<AutoCenter>`  | [AutoCenter](https://mobile.ant.design/zh/components/auto-center)   |
 | 2.  | atmcapsuleTabs | `<CapsuleTabs>` | [CapsuleTabs](https://mobile.ant.design/zh/components/capsule-tabs) |
+| 3.  | atmcollapse    | `<Collapse>`    | [Collapse](https://mobile.ant.design/zh/components/collapse)        |
