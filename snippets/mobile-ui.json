@@ -336,5 +336,10 @@
       "</Collapse>"
     ],
     "description": ""
+  },
+  "Divider(分割线)": {
+    "prefix": "atmdivider",
+    "body": ["<Divider />"],
+    "description": ""
   }
 }
