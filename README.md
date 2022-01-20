@@ -78,9 +78,10 @@
 
 #### 5.Navigation & Layout (14)
 
-| No. | Trigger        | Description     | Link                                                                |
-| --- | -------------- | --------------- | ------------------------------------------------------------------- |
-| 1.  | atmautoCenter  | `<AutoCenter>`  | [AutoCenter](https://mobile.ant.design/zh/components/auto-center)   |
-| 2.  | atmcapsuleTabs | `<CapsuleTabs>` | [CapsuleTabs](https://mobile.ant.design/zh/components/capsule-tabs) |
-| 3.  | atmcollapse    | `<Collapse>`    | [Collapse](https://mobile.ant.design/zh/components/collapse)        |
-| 4.  | atmdivider     | `<Divider>`     | [Divider](https://mobile.ant.design/zh/components/divider)          |
+| No. | Trigger          | Description       | Link                                                                    |
+| --- | ---------------- | ----------------- | ----------------------------------------------------------------------- |
+| 1.  | atmautoCenter    | `<AutoCenter>`    | [AutoCenter](https://mobile.ant.design/zh/components/auto-center)       |
+| 2.  | atmcapsuleTabs   | `<CapsuleTabs>`   | [CapsuleTabs](https://mobile.ant.design/zh/components/capsule-tabs)     |
+| 3.  | atmcollapse      | `<Collapse>`      | [Collapse](https://mobile.ant.design/zh/components/collapse)            |
+| 4.  | atmdivider       | `<Divider>`       | [Divider](https://mobile.ant.design/zh/components/divider)              |
+| 5.  | atmfloatingPanel | `<FloatingPanel>` | [FloatingPanel](https://mobile.ant.design/zh/components/floating-panel) |

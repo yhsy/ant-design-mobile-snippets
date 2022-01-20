@@ -341,5 +341,10 @@
     "prefix": "atmdivider",
     "body": ["<Divider />"],
     "description": ""
+  },
+  "FloatingPanel(浮动面板)": {
+    "prefix": "atmfloatingPanel",
+    "body": ["<FloatingPanel anchors={$1} />"],
+    "description": ""
   }
 }
