@@ -346,5 +346,16 @@
     "prefix": "atmfloatingPanel",
     "body": ["<FloatingPanel anchors={$1} />"],
     "description": ""
+  },
+  "Grid(栅格)": {
+    "prefix": "atmgrid",
+    "body": [
+      "<Grid columns={3} gap={8} \r",
+      "  <Grid.Item>A</Grid.Item>\r",
+      "  <Grid.Item>B</Grid.Item>\r",
+      "  <Grid.Item>C</Grid.Item>\r",
+      "</Grid>"
+    ],
+    "description": ""
   }
 }
