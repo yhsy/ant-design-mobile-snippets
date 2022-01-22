@@ -366,5 +366,16 @@
       "</IndexBar>"
     ],
     "description": ""
+  },
+  "JumboTabs(复杂选项卡)": {
+    "prefix": "atmjumboTabs",
+    "body": [
+      "<JumboTabs \r",
+      "  <JumboTabs.Tab title='水果' description='描述文案' key='fruits'  />\r",
+      "  <JumboTabs.Tab title='蔬菜' description='描述文案' key='vegetables' />\r",
+      "  <JumboTabs.Tab title='动物' description='描述文案' key='animals'  />\r",
+      "</JumboTabs>"
+    ],
+    "description": ""
   }
 }

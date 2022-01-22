@@ -87,3 +87,4 @@
 | 5.  | atmfloatingPanel | `<FloatingPanel>` | [FloatingPanel](https://mobile.ant.design/zh/components/floating-panel) |
 | 6.  | atmgrid          | `<Grid>`          | [Grid](https://mobile.ant.design/zh/components/grid)                    |
 | 7.  | atmindexBar      | `<IndexBar>`      | [IndexBar](https://mobile.ant.design/zh/components/index-bar)           |
+| 8.  | atmjumboTabs     | `<JumboTabs>`     | [JumboTabs](https://mobile.ant.design/zh/components/jumbo-tabs)         |
