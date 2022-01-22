@@ -357,5 +357,14 @@
       "</Grid>"
     ],
     "description": ""
+  },
+  "IndexBar(序列)": {
+    "prefix": "atmindexBar",
+    "body": [
+      "<IndexBar \r",
+      "  <IndexBar.Panel index='' title='' key=''>A</IndexBar.Panel>\r",
+      "</IndexBar>"
+    ],
+    "description": ""
   }
 }

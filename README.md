@@ -86,3 +86,4 @@
 | 4.  | atmdivider       | `<Divider>`       | [Divider](https://mobile.ant.design/zh/components/divider)              |
 | 5.  | atmfloatingPanel | `<FloatingPanel>` | [FloatingPanel](https://mobile.ant.design/zh/components/floating-panel) |
 | 6.  | atmgrid          | `<Grid>`          | [Grid](https://mobile.ant.design/zh/components/grid)                    |
+| 7.  | atmindexBar      | `<IndexBar>`      | [IndexBar](https://mobile.ant.design/zh/components/index-bar)           |
