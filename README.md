@@ -89,3 +89,4 @@
 | 7.  | atmindexBar      | `<IndexBar>`      | [IndexBar](https://mobile.ant.design/zh/components/index-bar)           |
 | 8.  | atmjumboTabs     | `<JumboTabs>`     | [JumboTabs](https://mobile.ant.design/zh/components/jumbo-tabs)         |
 | 9.  | atmnavBar        | `<NavBar>`        | [NavBar](https://mobile.ant.design/zh/components/nav-bar)               |
+| 10. | atmpopup         | `<Popup>`         | [Popup](https://mobile.ant.design/zh/components/popup)                  |

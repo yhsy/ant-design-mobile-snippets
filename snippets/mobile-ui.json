@@ -382,5 +382,10 @@
     "prefix": "atmnavBar",
     "body": ["<NavBar onBack={$1}>标题</NavBar>"],
     "description": ""
+  },
+  "Popup(弹出层)": {
+    "prefix": "atmpopup",
+    "body": ["<Popup visible={$1}>Hello</Popup>"],
+    "description": ""
   }
 }
