@@ -88,3 +88,4 @@
 | 6.  | atmgrid          | `<Grid>`          | [Grid](https://mobile.ant.design/zh/components/grid)                    |
 | 7.  | atmindexBar      | `<IndexBar>`      | [IndexBar](https://mobile.ant.design/zh/components/index-bar)           |
 | 8.  | atmjumboTabs     | `<JumboTabs>`     | [JumboTabs](https://mobile.ant.design/zh/components/jumbo-tabs)         |
+| 9.  | atmnavBar        | `<NavBar>`        | [NavBar](https://mobile.ant.design/zh/components/nav-bar)               |

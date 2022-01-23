@@ -377,5 +377,10 @@
       "</JumboTabs>"
     ],
     "description": ""
+  },
+  "NavBar(导航栏)": {
+    "prefix": "atmnavBar",
+    "body": ["<NavBar onBack={$1}>标题</NavBar>"],
+    "description": ""
   }
 }
