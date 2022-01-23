@@ -387,5 +387,10 @@
     "prefix": "atmpopup",
     "body": ["<Popup visible={$1}>Hello</Popup>"],
     "description": ""
+  },
+  "SafeArea(安全区)": {
+    "prefix": "atmsafeArea",
+    "body": ["<SafeArea position='${1|top,bottom|}' />"],
+    "description": ""
   }
 }
