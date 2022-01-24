@@ -401,5 +401,14 @@
       "</SideBar>"
     ],
     "description": ""
+  },
+  "TabBar(标签栏)": {
+    "prefix": "atmtabBar",
+    "body": [
+      "<TabBar \r",
+      "  <TabBar.Item title='' key='' icon='' />\r",
+      "</TabBar>"
+    ],
+    "description": ""
   }
 }
