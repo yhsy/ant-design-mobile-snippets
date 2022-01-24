@@ -392,5 +392,14 @@
     "prefix": "atmsafeArea",
     "body": ["<SafeArea position='${1|top,bottom|}' />"],
     "description": ""
+  },
+  "SideBar(侧边导航)": {
+    "prefix": "atmsideBar",
+    "body": [
+      "<SideBar \r",
+      "  <SideBar.Item title='' key='' />\r",
+      "</SideBar>"
+    ],
+    "description": ""
   }
 }
