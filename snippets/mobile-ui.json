@@ -410,5 +410,14 @@
       "</TabBar>"
     ],
     "description": ""
+  },
+  "Tabs(标签页)": {
+    "prefix": "atmtabs",
+    "body": [
+      "<Tabs \r",
+      "  <Tabs.Tab title='' key=''/>\r",
+      "</Tabs>"
+    ],
+    "description": ""
   }
 }

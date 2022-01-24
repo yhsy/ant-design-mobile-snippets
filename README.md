@@ -93,3 +93,4 @@
 | 11. | atmsafeArea      | `<SafeArea>`      | [SafeArea](https://mobile.ant.design/zh/components/safe-area)           |
 | 12. | atmsideBar       | `<SideBar>`       | [SideBar](https://mobile.ant.design/zh/components/side-bar)             |
 | 13. | atmtabBar        | `<TabBar>`        | [TabBar](https://mobile.ant.design/zh/components/tab-bar)               |
+| 14. | atmtabs          | `<Tabs>`          | [Tabs](https://mobile.ant.design/zh/components/tabs)                    |
