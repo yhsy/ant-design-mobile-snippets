@@ -94,3 +94,9 @@
 | 12. | atmsideBar       | `<SideBar>`       | [SideBar](https://mobile.ant.design/zh/components/side-bar)             |
 | 13. | atmtabBar        | `<TabBar>`        | [TabBar](https://mobile.ant.design/zh/components/tab-bar)               |
 | 14. | atmtabs          | `<Tabs>`          | [Tabs](https://mobile.ant.design/zh/components/tabs)                    |
+
+#### 7.Other (1)
+
+| No. | Trigger           | Description        | Link                                                                      |
+| --- | ----------------- | ------------------ | ------------------------------------------------------------------------- |
+| 1.  | atmconfigProvider | `<ConfigProvider>` | [ConfigProvider](https://mobile.ant.design/zh/components/config-provider) |

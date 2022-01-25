@@ -318,7 +318,7 @@
   "CapsuleTabs(胶囊选项卡)": {
     "prefix": "atmcapsuleTabs",
     "body": [
-      "<CapsuleTabs \r",
+      "<CapsuleTabs> \r",
       "  <CapsuleTabs.Tab title=\"水果\" key='$1' />\r",
       "  <CapsuleTabs.Tab title=\"蔬菜\" key='$2' />\r",
       "  <CapsuleTabs.Tab title=\"动物\" key='$3' />\r",
@@ -329,7 +329,7 @@
   "Collapse(折叠面板)": {
     "prefix": "atmcollapse",
     "body": [
-      "<Collapse defaultActiveKey={['1']} \r",
+      "<Collapse defaultActiveKey={['1']} >\r",
       "  <Collapse.Panel title=\"第一项\" key='1'>这里是第一项的内容 </Collapse.Panel>\r",
       "  <Collapse.Panel title=\"第二项\" key='2'>这里是第二项的内容 </Collapse.Panel>\r",
       "  <Collapse.Panel title=\"第三项\" key='3'>这里是第三项的内容 </Collapse.Panel>\r",
@@ -350,7 +350,7 @@
   "Grid(栅格)": {
     "prefix": "atmgrid",
     "body": [
-      "<Grid columns={3} gap={8} \r",
+      "<Grid columns={3} gap={8}> \r",
       "  <Grid.Item>A</Grid.Item>\r",
       "  <Grid.Item>B</Grid.Item>\r",
       "  <Grid.Item>C</Grid.Item>\r",
@@ -361,7 +361,7 @@
   "IndexBar(序列)": {
     "prefix": "atmindexBar",
     "body": [
-      "<IndexBar \r",
+      "<IndexBar> \r",
       "  <IndexBar.Panel index='' title='' key=''>A</IndexBar.Panel>\r",
       "</IndexBar>"
     ],
@@ -370,7 +370,7 @@
   "JumboTabs(复杂选项卡)": {
     "prefix": "atmjumboTabs",
     "body": [
-      "<JumboTabs \r",
+      "<JumboTabs> \r",
       "  <JumboTabs.Tab title='水果' description='描述文案' key='fruits'  />\r",
       "  <JumboTabs.Tab title='蔬菜' description='描述文案' key='vegetables' />\r",
       "  <JumboTabs.Tab title='动物' description='描述文案' key='animals'  />\r",
@@ -396,7 +396,7 @@
   "SideBar(侧边导航)": {
     "prefix": "atmsideBar",
     "body": [
-      "<SideBar \r",
+      "<SideBar> \r",
       "  <SideBar.Item title='' key='' />\r",
       "</SideBar>"
     ],
@@ -405,7 +405,7 @@
   "TabBar(标签栏)": {
     "prefix": "atmtabBar",
     "body": [
-      "<TabBar \r",
+      "<TabBar> \r",
       "  <TabBar.Item title='' key='' icon='' />\r",
       "</TabBar>"
     ],
@@ -414,9 +414,16 @@
   "Tabs(标签页)": {
     "prefix": "atmtabs",
     "body": [
-      "<Tabs \r",
+      "<Tabs> \r",
       "  <Tabs.Tab title='' key=''/>\r",
       "</Tabs>"
+    ],
+    "description": ""
+  },
+  "ConfigProvider(配置)": {
+    "prefix": "atmtabs",
+    "body": [
+      "<ConfigProvider locale={}></ConfigProvider>"
     ],
     "description": ""
   }
