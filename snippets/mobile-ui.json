@@ -113,7 +113,7 @@
   },
   "WaterMark(水印)": {
     "prefix": "atmwaterMark",
-    "body": ["<WaterMark content=\"Ant Design Mobile\">$1</WaterMark>"],
+    "body": ["<WaterMark content='Ant Design Mobile'>$1</WaterMark>"],
     "description": ""
   },
   "Cascader(级联选择)": {
@@ -152,7 +152,7 @@
     "prefix": "atmform",
     "body": [
       "<Form onFinish={$1} footer={$2}>\r",
-      "  <Form.Item name={$1} label={$2} rules={$3}>\r",
+      "  <Form.Item name={$3} label={$4} rules={$5}>\r",
       "    <Input placeholder=''/>\r",
       "  </Form.Item>\r",
       "</Form>"
@@ -161,27 +161,27 @@
   },
   "Input(输入框)": {
     "prefix": "atminput",
-    "body": ["<Input placeholder=\"$1\" value={$2} />"],
+    "body": ["<Input placeholder='$1' value={$2} />"],
     "description": ""
   },
   "Picker(选择器)": {
     "prefix": "atmpicker",
-    "body": ["<Picker columns=\"$1\" visible={$2} value={$3} />"],
+    "body": ["<Picker columns='$1' visible={$2} value={$3} />"],
     "description": ""
   },
   "PickerView(选择器视图)": {
     "prefix": "atmpickerView",
-    "body": ["<PickerView columns=\"$1\" />"],
+    "body": ["<PickerView columns='$1' />"],
     "description": ""
   },
   "Radio(单选框)": {
     "prefix": "atmradio",
     "body": [
-      "<Radio.Group value=\"A\">\r",
+      "<Radio.Group value='A' onChange={(value)=>{}>\r",
       "  <Space direction='vertical'>\r",
-      "   <Radio value=\"A\">A</Radio>\r",
-      "   <Radio value=\"B\">B</Radio>\r",
-      "   <Radio value=\"C\">C</Radio>\r",
+      "   <Radio value='A'>A</Radio>\r",
+      "   <Radio value='B'>B</Radio>\r",
+      "   <Radio value='C'>C</Radio>\r",
       "  </Space>\r",
       "</Radio.Group>"
     ],
@@ -189,7 +189,12 @@
   },
   "Rate(评分)": {
     "prefix": "atmrate",
-    "body": ["<Rate val=\"$1\" />"],
+    "body": ["<Rate value='$1'/>"],
+    "description": ""
+  },
+  "SearchBar(搜索)": {
+    "prefix": "atmsearchBar",
+    "body": ["<SearchBar placeholder='$1' />"],
     "description": ""
   },
   "Selector(选择组)": {
