@@ -2,7 +2,7 @@
   "Button(按钮)": {
     "prefix": "atmbutton",
     "body": [
-      "<Button color=\"${1|primary,success,warning,danger,default|}\">$2</Button>"
+      "<Button color='${1|primary,success,warning,danger,default|}'>$2</Button>"
     ],
     "description": ""
   },
@@ -35,45 +35,45 @@
   },
   "Badge(徽标)": {
     "prefix": "atmbadge",
-    "body": ["<Badge count=\"$1\">$2</Badge>"],
+    "body": ["<Badge count='$1'>$2</Badge>"],
     "description": ""
   },
   "Card(卡片)": {
     "prefix": "atmcard",
-    "body": ["<Card title=\"$1\">$2</Card>"],
+    "body": ["<Card title='$1'>$2</Card>"],
     "description": ""
   },
   "Image(图片)": {
     "prefix": "atmimage",
-    "body": ["<Image src=\"$1\" />"],
+    "body": ["<Image src='$1' />"],
     "description": ""
   },
   "ImageViewer(图片查看器)": {
     "prefix": "atmimageViewer",
-    "body": ["<ImageViewer image=\"$1\" visible=\"$2\" />"],
+    "body": ["<ImageViewer image='$1' visible={$2} />"],
     "description": ""
   },
   "InfiniteScroll(无限滚动)": {
     "prefix": "atminfiniteScroll",
-    "body": ["<InfiniteScroll loadMore=\"$1\" hasMore=\"$2\" />"],
+    "body": ["<InfiniteScroll loadMore={$1} hasMore={$2} />"],
     "description": ""
   },
   "NoticeBar(通告栏)": {
     "prefix": "atmnoticeBar",
     "body": [
-      "<NoticeBar content=\"$1\" color=\"${2|alert,info,error,default|}\" />"
+      "<NoticeBar content='$1' color='${2|alert,info,error,default|}' />"
     ],
     "description": ""
   },
   "PageIndicator(页码指示器)": {
     "prefix": "atmpageIndicator",
-    "body": ["<PageIndicator total=\"$1\" current=\"$2\" />"],
+    "body": ["<PageIndicator total='$1' current='$2'/>"],
     "description": ""
   },
   "Popover(气泡弹出框)": {
     "prefix": "atmpopover",
     "body": [
-      "<Popover content=\"$1\" placement=\"$2\" >\r",
+      "<Popover content='$1' placement='$2' trigger='click'>\r",
       "  <Button>$3</Button>\r",
       "</Popover>"
     ],
@@ -82,10 +82,10 @@
   "Steps(步骤条)": {
     "prefix": "atmsteps",
     "body": [
-      "<Steps current={1}>\r",
-      "  <Step title=\"标题1\" description='描述'/>\r",
-      "  <Step title=\"标题2\" description='描述'/>\r",
-      "  <Step title=\"标题3\" description='描述'/>\r",
+      "<Steps current={0}>\r",
+      "  <Steps.Step title='标题1' description='描述1'/>\r",
+      "  <Steps.Step title='标题2' description='描述2'/>\r",
+      "  <Steps.Step title='标题3' description='描述3'/>\r",
       "</Steps>"
     ],
     "description": ""
@@ -106,7 +106,9 @@
   },
   "Tag(标签)": {
     "prefix": "atmtag",
-    "body": ["<Tag color=\"$1\">$2</Tag>"],
+    "body": [
+      "<Tag color='${1|primary,success,warning,danger,default|}'>$2</Tag>"
+    ],
     "description": ""
   },
   "WaterMark(水印)": {
