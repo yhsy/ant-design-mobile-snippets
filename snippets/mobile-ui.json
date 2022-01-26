@@ -219,7 +219,7 @@
   },
   "TextArea(文本域)": {
     "prefix": "atmtextArea",
-    "body": ["<TextArea placeholder=\"请输入内容\" value={$1} />"],
+    "body": ["<TextArea placeholder='请输入内容' value={$1} />"],
     "description": ""
   },
   "ActionSheet(动作面板)": {
