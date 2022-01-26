@@ -28,6 +28,11 @@
     ],
     "description": ""
   },
+  "Avatar(头像)": {
+    "prefix": "atmavatar",
+    "body": ["<Avatar src='$1'/>"],
+    "description": ""
+  },
   "Badge(徽标)": {
     "prefix": "atmbadge",
     "body": ["<Badge count=\"$1\">$2</Badge>"],
@@ -55,7 +60,9 @@
   },
   "NoticeBar(通告栏)": {
     "prefix": "atmnoticeBar",
-    "body": ["<NoticeBar content=\"$1\" color=\"${2|alert,info,error,default|}\" />"],
+    "body": [
+      "<NoticeBar content=\"$1\" color=\"${2|alert,info,error,default|}\" />"
+    ],
     "description": ""
   },
   "PageIndicator(页码指示器)": {
@@ -223,7 +230,7 @@
       "     \r",
       "   }\r",
       "  })/>\r",
-    "  }}>\r",
+      "  }}>\r",
       "  \r",
       "</Button>"
     ],
@@ -287,21 +294,19 @@
   },
   "SwipeAction(滑动操作)": {
     "prefix": "atmswipeAction",
-    "body": [
-      "<SwipeAction rightActions={$1} />\r"
-    ],
+    "body": ["<SwipeAction rightActions={$1} />\r"],
     "description": ""
   },
   "Toast(轻提示)": {
     "prefix": "atmtoast",
     "body": [
       "<Button onClick={ () => { \r",
-        "Toast.show({ \r",
-          "content: '' \r",
-          "afterClose: ()=>{\r",
-            "\r",
-          "}\r",
-        "}) \r",
+      "Toast.show({ \r",
+      "content: '' \r",
+      "afterClose: ()=>{\r",
+      "\r",
+      "}\r",
+      "}) \r",
       "}}>\r",
       "轻提示",
       "</Button>"
@@ -310,9 +315,7 @@
   },
   "AutoCenter(自动居中)": {
     "prefix": "atmautoCenter",
-    "body": [
-      "<AutoCenter>{$1}</AutoCenter>"
-    ],
+    "body": ["<AutoCenter>{$1}</AutoCenter>"],
     "description": ""
   },
   "CapsuleTabs(胶囊选项卡)": {
@@ -413,18 +416,12 @@
   },
   "Tabs(标签页)": {
     "prefix": "atmtabs",
-    "body": [
-      "<Tabs> \r",
-      "  <Tabs.Tab title='' key=''/>\r",
-      "</Tabs>"
-    ],
+    "body": ["<Tabs> \r", "  <Tabs.Tab title='' key=''/>\r", "</Tabs>"],
     "description": ""
   },
   "ConfigProvider(配置)": {
     "prefix": "atmtabs",
-    "body": [
-      "<ConfigProvider locale={}></ConfigProvider>"
-    ],
+    "body": ["<ConfigProvider locale={}></ConfigProvider>"],
     "description": ""
   }
 }

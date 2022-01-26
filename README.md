@@ -1,4 +1,4 @@
-## This is Code Snippets of Ant Design Mobile for VS Code. (Version: v5.0.0-rc.9)
+## This is Code Snippets of Ant Design Mobile for VS Code. (Version: v5.0.0-rc.22)
 
 ![TDoriq.png](https://s4.ax1x.com/2021/12/27/TDoriq.png)
 
@@ -19,22 +19,24 @@
 | 2.  | atmlist   | `<List>`    | [List](https://mobile.ant.design/zh/components/list)     |
 | 3.  | atmspace  | `<Space>`   | [Space](https://mobile.ant.design/zh/components/space)   |
 
-#### 2.Data Display (12)
+#### 2.Data Display (13)
 
 | No. | Trigger           | Description        | Link                                                                      |
 | --- | ----------------- | ------------------ | ------------------------------------------------------------------------- |
-| 1.  | atmbadge          | `<Badge>`          | [Badge](https://mobile.ant.design/zh/components/badge)                    |
-| 2.  | atmcard           | `<Card>`           | [Card](https://mobile.ant.design/zh/components/card)                      |
-| 3.  | atmimage          | `<Image>`          | [Image](https://mobile.ant.design/zh/components/image)                    |
-| 4.  | atmimageViewer    | `<ImageViewer>`    | [ImageViewer](https://mobile.ant.design/zh/components/image-viewer)       |
-| 5.  | atminfiniteScroll | `<InfiniteScroll>` | [InfiniteScroll](https://mobile.ant.design/zh/components/infinite-scroll) |
-| 6.  | atmnoticeBar      | `<NoticeBar>`      | [NoticeBar](https://mobile.ant.design/zh/components/notice-bar)           |
-| 7.  | atmpageIndicator  | `<PageIndicator>`  | [PageIndicator](https://mobile.ant.design/zh/components/page-indicator)   |
-| 8.  | atmpopover        | `<Popover>`        | [Popover](https://mobile.ant.design/zh/components/popover)                |
-| 9.  | atmsteps          | `<Steps>`          | [Steps](https://mobile.ant.design/zh/components/steps)                    |
-| 10. | atmswiper         | `<Swiper>`         | [Swiper](https://mobile.ant.design/zh/components/swiper)                  |
-| 11. | atmtag            | `<Tag>`            | [Tag](https://mobile.ant.design/zh/components/tag)                        |
-| 12. | atmwaterMark      | `<WaterMark>`      | [WaterMark](https://mobile.ant.design/zh/components/water-mark)           |
+| 1. | atmavatar      | `<Avatar>`      | [Avatar](https://mobile.ant.design/zh/components/avatar)           |
+| 2.  | atmbadge          | `<Badge>`          | [Badge](https://mobile.ant.design/zh/components/badge)                    |
+| 3.  | atmcard           | `<Card>`           | [Card](https://mobile.ant.design/zh/components/card)                      |
+| 4.  | atmimage          | `<Image>`          | [Image](https://mobile.ant.design/zh/components/image)                    |
+| 5.  | atmimageViewer    | `<ImageViewer>`    | [ImageViewer](https://mobile.ant.design/zh/components/image-viewer)       |
+| 6.  | atminfiniteScroll | `<InfiniteScroll>` | [InfiniteScroll](https://mobile.ant.design/zh/components/infinite-scroll) |
+| 7.  | atmnoticeBar      | `<NoticeBar>`      | [NoticeBar](https://mobile.ant.design/zh/components/notice-bar)           |
+| 8.  | atmpageIndicator  | `<PageIndicator>`  | [PageIndicator](https://mobile.ant.design/zh/components/page-indicator)   |
+| 9.  | atmpopover        | `<Popover>`        | [Popover](https://mobile.ant.design/zh/components/popover)                |
+| 10.  | atmsteps          | `<Steps>`          | [Steps](https://mobile.ant.design/zh/components/steps)                    |
+| 11. | atmswiper         | `<Swiper>`         | [Swiper](https://mobile.ant.design/zh/components/swiper)                  |
+| 12. | atmtag            | `<Tag>`            | [Tag](https://mobile.ant.design/zh/components/tag)                        |
+| 13. | atmwaterMark      | `<WaterMark>`      | [WaterMark](https://mobile.ant.design/zh/components/water-mark)           |
+
 
 #### 3.Data Entry (16)
 
