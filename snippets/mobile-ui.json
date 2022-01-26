@@ -232,13 +232,12 @@
     "body": [
       "<Button block onClick={()=>{ \r",
       "  Dialog.alert({\r",
-      "   content: '',\r",
-      "   onConfirm: ()=>{,\r",
-      "     \r",
+      "   content: '$1',\r",
+      "   onConfirm: ()=>{\r",
+      "    $2 \r",
       "   }\r",
-      "  })/>\r",
-      "  }}>\r",
-      "  \r",
+      "  })}}>\r",
+      "  显示对话框 \r",
       "</Button>"
     ],
     "description": ""
@@ -266,13 +265,10 @@
   "Modal(弹窗)": {
     "prefix": "atmmodal",
     "body": [
-      "<Modal closeOnAction visible={$1} \r",
+      "<Modal closeOnAction \r",
+      "  visible={$1}\r",
       "  content={$2}\r",
-      "   content: '',\r",
-      "   onClose: ()=>{,\r",
-      "     \r",
-      "   }\r",
-      "  })/>\r",
+      "  onClose={$3}\r",
       " />"
     ],
     "description": ""
