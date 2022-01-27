@@ -295,6 +295,11 @@
     ],
     "description": ""
   },
+  "Skeleton(骨架屏)": {
+    "prefix": "atmskeleton",
+    "body": ["<Skeleton.Paragraph lineCount={$1} animated/>\r"],
+    "description": ""
+  },
   "SwipeAction(滑动操作)": {
     "prefix": "atmswipeAction",
     "body": ["<SwipeAction rightActions={$1} />\r"],
