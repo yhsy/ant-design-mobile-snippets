@@ -309,14 +309,14 @@
     "prefix": "atmtoast",
     "body": [
       "<Button onClick={ () => { \r",
-      "Toast.show({ \r",
-      "content: '' \r",
-      "afterClose: ()=>{\r",
-      "\r",
-      "}\r",
-      "}) \r",
+      " Toast.show({\r",
+      "   content: '$1', \r",
+      "   afterClose: ()=>{\r",
+      "     \r",
+      "   }\r",
+      " })\r",
       "}}>\r",
-      "轻提示",
+      " 轻提示",
       "</Button>"
     ],
     "description": ""
